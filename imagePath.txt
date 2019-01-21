@@ -1,0 +1,9 @@
+0	0	/home/koncle/lfw_data/mini_lfw/Adrien_Brody/Adrien_Brody_0004.jpg
+1	0	/home/koncle/lfw_data/mini_lfw/Adrien_Brody/Adrien_Brody_0011.jpg
+11	0	/home/koncle/lfw_data/mini_lfw/Adrien_Brody/Adrien_Brody_0005.jpg
+12	2	/home/koncle/lfw_data/mini_lfw/Mike_Weir/Mike_Weir_0008.jpg
+13	2	/home/koncle/lfw_data/mini_lfw/Mike_Weir/Mike_Weir_0004.jpg
+22	2	/home/koncle/lfw_data/mini_lfw/Mike_Weir/Mike_Weir_0009.jpg
+23	1	/home/koncle/lfw_data/mini_lfw/Kim_Ryong-sung/Kim_Ryong-sung_0004.jpg
+24	1	/home/koncle/lfw_data/mini_lfw/Kim_Ryong-sung/Kim_Ryong-sung_0008.jpg
+33	1	/home/koncle/lfw_data/mini_lfw/Kim_Ryong-sung/Kim_Ryong-sung_0007.jpg
